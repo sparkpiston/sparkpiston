@@ -11,10 +11,10 @@
     "available": true
   },
   {
-    "id": "mark-performance-link-pipe",
-    "name": "Performance Exhaust Link Pipe",
-    "brand": "Mark Performance Exhaust",
-    "price": null,
+    "id": "benelli link-pipe",
+    "name": "benelli 300 Exhaust Link Pipe",
+    "brand": "spark piston ",
+    "price": 3499,
     "category": "Exhaust",
     "description": "Precision-welded performance link pipe with stainless construction, smooth bends and secure flanged connections.",
     "compatibility": "Model-specific fitment — confirm your motorcycle",
@@ -44,9 +44,9 @@
     "available": true
   },
   {
-    "id": "abs-rear-brake-disc",
-    "name": "ABS Rear Brake Disc",
-    "brand": "Service Replacement",
+    "id": "benelli-rear-brake-disc",
+    "name": "ABS and nonabs Rear Brake Disc",
+    "brand": "benelli oem spare",
     "price": null,
     "category": "Braking",
     "description": "ABS-compatible rear disc rotor built for accurate replacement fitment and dependable stopping performance.",
@@ -77,10 +77,10 @@
     "available": true
   },
   {
-    "id": "adjustable-rear-suspension",
-    "name": "Adjustable Rear Suspension",
+    "id": "benelli-rear-suspension",
+    "name": "Rear Suspension",
     "brand": "Performance Series",
-    "price": null,
+    "price": 13499,
     "category": "Suspension",
     "description": "Adjustable coil-over rear shock designed to improve support, control and rider confidence across varied roads.",
     "compatibility": "Confirm eye-to-eye size and bike model",
