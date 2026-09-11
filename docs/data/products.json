@@ -22,8 +22,8 @@
     "available": true
   },
   {
-    "id": "ktc-cnc-master-cylinder",
-    "name": "CNC Master Cylinder",
+    "id": "triumph master-cylinder",
+    "name": "triumph truxton Master Cylinder",
     "brand": "KTC Racing",
     "price": null,
     "category": "Braking",
@@ -33,9 +33,9 @@
     "available": true
   },
   {
-    "id": "ktc-brake-clutch-kit",
-    "name": "Brake & Clutch Lever Kit",
-    "brand": "KTC Racing",
+    "id": "EXHUST SYSTEM",
+    "name": "exhust for twin 650cc RE",
+    "brand": "SSP SILVER STALIN PERFORMANCE",
     "price": null,
     "category": "Braking",
     "description": "Matched brake and clutch control set with adjustable CNC levers and a remote brake-fluid reservoir.",
@@ -56,22 +56,22 @@
   },
   {
     "id": "hyper-flow-air-filter",
-    "name": "Hyper Flow Air Filter",
+    "name": "reusable Air Filter",
     "brand": "N-Gage Powerparts",
     "price": null,
     "category": "Engine",
     "description": "High-flow replacement air filter developed for improved breathing while retaining dependable everyday filtration.",
-    "compatibility": "Jawa, Yezdi and Bajaj — model-specific options",
+    "compatibility": "Jawa, Yezdi and Bajaj —ALL BIKE model-specific options",
     "image": "./assets/products/air-filters.jpg",
     "available": true
   },
   {
-    "id": "performance-drive-chain",
-    "name": "Performance Drive Chain",
+    "id": "timing chain ",
+    "name": "benelli timing Chain",
     "brand": "Service Replacement",
     "price": null,
     "category": "Drivetrain",
-    "description": "Durable motorcycle drive chain for smooth power transfer and reliable replacement service.",
+    "description": "Durable motorcycle drive chain for smooth power transfer and reliable replacement service for benelli all models.",
     "compatibility": "Confirm chain pitch, link count and motorcycle model",
     "image": "./assets/products/chain.jpg",
     "available": true
@@ -132,7 +132,7 @@
     "available": true
   },
   {
-    "id": "raceby-custom-alloy-wheel",
+    "id": "royal enfiled -alloy-wheel",
     "name": "Custom Alloy Wheel",
     "brand": "Raceby",
     "price": null,
