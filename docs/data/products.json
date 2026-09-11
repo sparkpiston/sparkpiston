@@ -142,4 +142,16 @@
     "image": "./assets/products/wheel.jpg",
     "available": true
   }
+  {
+    "id": "Caliper Benelli",
+    "name": "Benelli Caliper",
+    "brand": "Benelli OEM",
+    "price": 7799,
+    "category": "brake",
+    "description": "Genuine Benelli OEM brake caliper designed to deliver reliable braking performance, precise control, and consistent stopping power. Built to meet Benelli's quality and fitment standards for a secure and dependable installation.",
+    "compatibility": "Benelli ABS And NON ABS",
+    "image": "./assets/products/caliper.jpg",
+    "available": true
+  }
+  
 ]
