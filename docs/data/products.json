@@ -1,4 +1,4 @@
-```json
+
 [
   {
     "id": "silver-stallion-header-pipes",
@@ -155,10 +155,4 @@
     "available": true
   }
 ]
-```
 
-I also fixed two **non-spelling issues** that stood out:
-
-* `"EXHUST SYSTEM"` → `"exhaust-system"`
-* Its category was `"Braking"` even though it is an exhaust → changed to `"Exhaust"`.
-* `"timing Chain"` was described as a **drive chain** → corrected to a **timing chain** description.
