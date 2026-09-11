@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Spark Piston — premium motorcycle accessories, spares and performance parts in Chennai, with shipping across India." />
+    <meta name="theme-color" content="#070709" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23070709'/%3E%3Cpath d='M12 38h18l-8 14 30-28H34l8-12z' fill='%23ed1c2e'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Spark Piston | Motorcycle Performance Parts</title>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="topbar">Premium motorcycle parts · Chennai · Shipping across India</div>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Spark Piston home">
+        <img src="./assets/brand/spark-piston-logo.png" alt="Spark Piston" />
+      </a>
+      <nav aria-label="Main navigation">
+        <a href="#products">Products</a>
+        <a href="#why-us">Why us</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a class="header-cta" href="https://wa.me/916381759789?text=Hello%20Spark%20Piston%2C%20I%20need%20help%20finding%20a%20motorcycle%20part." target="_blank" rel="noopener">WhatsApp us</a>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span></span> Accessories · Spares · Performance</p>
+          <h1>Parts made for the <em>ride ahead.</em></h1>
+          <p class="hero-intro">Premium upgrades and dependable spares for everyday riders, tourers and performance builds. Share your bike model with us and get the right fit.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#products">Shop the catalog <span>→</span></a>
+            <a class="button button-ghost" href="tel:+916381759789">Call +91 63817 59789</a>
+          </div>
+          <div class="hero-proof" id="why-us">
+            <div><strong id="product-count">13+</strong><span>Products listed</span></div>
+            <div><strong>100%</strong><span>Fitment support</span></div>
+            <div><strong>India</strong><span>Wide shipping</span></div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-frame">
+            <img src="./assets/products/hero-bike.jpg" alt="Performance crash guard installed on a motorcycle" />
+            <div class="hero-label">
+              <span>Featured upgrade</span>
+              <strong>Adventure protection</strong>
+            </div>
+          </div>
+          <div class="logo-seal"><img src="./assets/brand/spark-piston-logo.png" alt="" /></div>
+        </div>
+      </section>
+
+      <section class="brand-rail" aria-label="Supported motorcycle brands">
+        <span>Parts available for</span>
+        <strong>ROYAL ENFIELD</strong>
+        <strong>JAWA</strong>
+        <strong>YEZDI</strong>
+        <strong>BAJAJ</strong>
+        <strong>HERO</strong>
+        <strong>SUPERBIKES</strong>
+      </section>
+
+      <section class="catalog" id="products">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow"><span></span> Product catalog</p>
+            <h2>Upgrade your machine.</h2>
+            <p>Browse the collection, check compatibility and contact our sales team directly on WhatsApp.</p>
+          </div>
+          <label class="search">
+            <span class="sr-only">Search products</span>
+            <span aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" placeholder="Search product or bike" autocomplete="off" />
+          </label>
+        </div>
+
+        <div class="catalog-toolbar">
+          <div class="filters" id="filters" aria-label="Product categories"></div>
+          <p id="results-count" class="results-count"></p>
+        </div>
+
+        <div class="product-grid" id="product-grid" aria-live="polite">
+          <p class="loading">Loading products…</p>
+        </div>
+      </section>
+
+      <section class="service-grid" aria-label="Why choose Spark Piston">
+        <article><span>01</span><h3>Fitment guidance</h3><p>Tell us your bike model and year. We help confirm compatibility before you order.</p></article>
+        <article><span>02</span><h3>Quality-focused range</h3><p>Performance parts, protection and essential spares selected for serious riders.</p></article>
+        <article><span>03</span><h3>Direct sales support</h3><p>Speak with our team on WhatsApp for pricing, availability and shipping details.</p></article>
+      </section>
+
+      <section class="contact" id="contact">
+        <div class="contact-logo"><img src="./assets/brand/spark-piston-logo.png" alt="Spark Piston" /></div>
+        <div class="contact-copy">
+          <p class="eyebrow"><span></span> Can’t find your part?</p>
+          <h2>Send us your bike model.</h2>
+          <p>We deal in premium superbike spares, accessories, performance exhausts and engine-performance parts from major brands.</p>
+          <div class="contact-actions">
+            <a class="button button-primary" href="https://wa.me/916381759789?text=Hello%20Spark%20Piston%2C%20I%20am%20looking%20for%20a%20part.%20My%20bike%20model%20and%20year%20is%3A%20" target="_blank" rel="noopener">Chat with sales <span>→</span></a>
+            <span>Old Pallavaram, Chennai 600117</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <a class="footer-brand" href="#top"><img src="./assets/brand/spark-piston-logo.png" alt="Spark Piston" /></a>
+      <p>Premium motorcycle accessories, spares and performance parts.</p>
+      <div class="footer-details">
+        <a href="tel:+916381759789">+91 63817 59789</a>
+        <a href="https://www.instagram.com/spark_pistons/" target="_blank" rel="noopener">@spark_pistons</a>
+      </div>
+    </footer>
+
+    <template id="product-template">
+      <article class="product-card">
+        <button class="product-image-button" type="button" aria-label="View product details">
+          <img class="product-image" alt="" loading="lazy" />
+          <span class="product-category"></span>
+          <span class="image-action">View details</span>
+        </button>
+        <div class="product-body">
+          <div class="product-topline">
+            <span class="product-brand"></span>
+            <strong class="product-price"></strong>
+          </div>
+          <h3 class="product-name"></h3>
+          <p class="product-fit"></p>
+          <p class="product-description"></p>
+          <a class="buy-button" target="_blank" rel="noopener"><span>Enquire on WhatsApp</span><span aria-hidden="true">↗</span></a>
+        </div>
+      </article>
+    </template>
+
+    <dialog id="product-dialog" class="product-dialog">
+      <button class="dialog-close" type="button" aria-label="Close product details">×</button>
+      <div class="dialog-layout">
+        <img id="dialog-image" alt="" />
+        <div class="dialog-copy">
+          <p id="dialog-category" class="eyebrow"><span></span></p>
+          <h2 id="dialog-name"></h2>
+          <strong id="dialog-price" class="dialog-price"></strong>
+          <p id="dialog-description"></p>
+          <div class="fitment"><small>COMPATIBILITY</small><strong id="dialog-fit"></strong></div>
+          <a id="dialog-buy" class="button button-primary" target="_blank" rel="noopener">Ask sales on WhatsApp <span>→</span></a>
+        </div>
+      </div>
+    </dialog>
+  </body>
+</html>

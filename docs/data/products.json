@@ -1,0 +1,145 @@
+[
+  {
+    "id": "silver-stallion-header-pipes",
+    "name": "Performance Header Pipes",
+    "brand": "Silver Stallion Performance",
+    "price": null,
+    "category": "Exhaust",
+    "description": "Stainless-steel performance header pipes engineered for freer flow, a stronger exhaust note and a clean factory-style fit.",
+    "compatibility": "Royal Enfield Classic 650 — confirm model and year",
+    "image": "./assets/products/header-pipes.jpg",
+    "available": true
+  },
+  {
+    "id": "mark-performance-link-pipe",
+    "name": "Performance Exhaust Link Pipe",
+    "brand": "Mark Performance Exhaust",
+    "price": null,
+    "category": "Exhaust",
+    "description": "Precision-welded performance link pipe with stainless construction, smooth bends and secure flanged connections.",
+    "compatibility": "Model-specific fitment — confirm your motorcycle",
+    "image": "./assets/products/exhaust-pipe.jpg",
+    "available": true
+  },
+  {
+    "id": "ktc-cnc-master-cylinder",
+    "name": "CNC Master Cylinder",
+    "brand": "KTC Racing",
+    "price": null,
+    "category": "Braking",
+    "description": "High-performance CNC-machined master-cylinder assembly designed for precise lever feel and confident brake control.",
+    "compatibility": "Universal fitment — confirm before ordering",
+    "image": "./assets/products/master-cylinder.jpg",
+    "available": true
+  },
+  {
+    "id": "ktc-brake-clutch-kit",
+    "name": "Brake & Clutch Lever Kit",
+    "brand": "KTC Racing",
+    "price": null,
+    "category": "Braking",
+    "description": "Matched brake and clutch control set with adjustable CNC levers and a remote brake-fluid reservoir.",
+    "compatibility": "Universal fitment — adapter may be required",
+    "image": "./assets/products/brakes.jpg",
+    "available": true
+  },
+  {
+    "id": "abs-rear-brake-disc",
+    "name": "ABS Rear Brake Disc",
+    "brand": "Service Replacement",
+    "price": null,
+    "category": "Braking",
+    "description": "ABS-compatible rear disc rotor built for accurate replacement fitment and dependable stopping performance.",
+    "compatibility": "Share your bike model and year",
+    "image": "./assets/products/brake-disc.jpg",
+    "available": true
+  },
+  {
+    "id": "hyper-flow-air-filter",
+    "name": "Hyper Flow Air Filter",
+    "brand": "N-Gage Powerparts",
+    "price": null,
+    "category": "Engine",
+    "description": "High-flow replacement air filter developed for improved breathing while retaining dependable everyday filtration.",
+    "compatibility": "Jawa, Yezdi and Bajaj — model-specific options",
+    "image": "./assets/products/air-filters.jpg",
+    "available": true
+  },
+  {
+    "id": "performance-drive-chain",
+    "name": "Performance Drive Chain",
+    "brand": "Service Replacement",
+    "price": null,
+    "category": "Drivetrain",
+    "description": "Durable motorcycle drive chain for smooth power transfer and reliable replacement service.",
+    "compatibility": "Confirm chain pitch, link count and motorcycle model",
+    "image": "./assets/products/chain.jpg",
+    "available": true
+  },
+  {
+    "id": "adjustable-rear-suspension",
+    "name": "Adjustable Rear Suspension",
+    "brand": "Performance Series",
+    "price": null,
+    "category": "Suspension",
+    "description": "Adjustable coil-over rear shock designed to improve support, control and rider confidence across varied roads.",
+    "compatibility": "Confirm eye-to-eye size and bike model",
+    "image": "./assets/products/suspension.jpg",
+    "available": true
+  },
+  {
+    "id": "aluminium-sump-guard",
+    "name": "Aluminium Sump Guard",
+    "brand": "Protection Series",
+    "price": null,
+    "category": "Protection",
+    "description": "Heavy-duty aluminium engine protection with a satin-black finish and straightforward bolt-on installation.",
+    "compatibility": "Royal Enfield GT 650 / Bear 650",
+    "image": "./assets/products/sump-guard.jpg",
+    "available": true
+  },
+  {
+    "id": "himalayan-touring-crash-guard",
+    "name": "Touring Crash Guard",
+    "brand": "Moto Torque",
+    "price": null,
+    "category": "Protection",
+    "description": "Full-coverage touring crash guard with integrated sliders and strong mounting points for adventure use.",
+    "compatibility": "Royal Enfield Himalayan — confirm generation",
+    "image": "./assets/products/himalayan-guard.jpg",
+    "available": true
+  },
+  {
+    "id": "adventure-crash-guard-red",
+    "name": "Adventure Crash Guard — Red",
+    "brand": "Moto Torque",
+    "price": null,
+    "category": "Protection",
+    "description": "High-coverage tubular crash protection in a bold red finish, supplied with frame sliders for added impact defence.",
+    "compatibility": "Hero adventure models — confirm exact model",
+    "image": "./assets/products/hero-guard.jpg",
+    "available": true
+  },
+  {
+    "id": "adventure-crash-guard-black",
+    "name": "Adventure Crash Guard — Black",
+    "brand": "Moto Torque",
+    "price": null,
+    "category": "Protection",
+    "description": "Touring-ready black crash guard offering broad side protection while complementing the motorcycle's factory finish.",
+    "compatibility": "Hero adventure models — confirm exact model",
+    "image": "./assets/products/hero-bike.jpg",
+    "available": true
+  },
+  {
+    "id": "raceby-custom-alloy-wheel",
+    "name": "Custom Alloy Wheel",
+    "brand": "Raceby",
+    "price": null,
+    "category": "Wheels",
+    "description": "Distinctive multi-spoke custom wheel with machined accents, designed to give your motorcycle a premium statement look.",
+    "compatibility": "Model-specific hub and wheel size",
+    "image": "./assets/products/wheel.jpg",
+    "available": true
+  }
+]
