@@ -118,7 +118,7 @@ dialog.addEventListener("click", (event) => {
   if (event.target === dialog) dialog.close();
 });
 
-fetch("./data/products.json")
+fetch("/ sparkpiston/data/products .json")
   .then((response) => {
     if (!response.ok) throw new Error("Product file could not be loaded.");
     return response.json();
