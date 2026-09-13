@@ -154,5 +154,14 @@
     "image": "./assets/products/caliper.jpeg",
     "available": true
   }
-]
-
+],
+{
+    "id": "benelli oil filter",
+    "name": "Benelli oil filter",
+    "brand": "Benelli OEM",
+    "price": 649,
+    "category": "engine",
+    "description":"Genuine Benelli OEM oil filter designed to effectively remove contaminants and impurities from engine oil, helping protect internal engine components and maintain smooth, reliable engine performance. Built to meet Benelli's quality and fitment standards for dependable filtration and a secure installation.",
+    "compatibility": "Benelli all models",
+    "image": "./assets/products/caliper.jpeg",
+    "available": true
