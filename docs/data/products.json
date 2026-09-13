@@ -1,4 +1,3 @@
-
 [
   {
     "id": "silver-stallion-header-pipes",
@@ -153,15 +152,16 @@
     "compatibility": "Benelli ABS and Non-ABS models",
     "image": "./assets/products/caliper.jpeg",
     "available": true
-  }
-],
-{
-    "id": "benelli oil filter",
-    "name": "Benelli oil filter",
+  },
+  {
+    "id": "benelli-oil-filter",
+    "name": "Benelli Oil Filter",
     "brand": "Benelli OEM",
     "price": 649,
-    "category": "engine",
-    "description":"Genuine Benelli OEM oil filter designed to effectively remove contaminants and impurities from engine oil, helping protect internal engine components and maintain smooth, reliable engine performance. Built to meet Benelli's quality and fitment standards for dependable filtration and a secure installation.",
+    "category": "Engine",
+    "description": "Genuine Benelli OEM oil filter designed to effectively remove contaminants and impurities from engine oil, helping protect internal engine components and maintain smooth, reliable engine performance. Built to meet Benelli's quality and fitment standards for dependable filtration and a secure installation.",
     "compatibility": "Benelli all models",
     "image": "./assets/products/oil filter.jpeg",
     "available": true
+  }
+]
