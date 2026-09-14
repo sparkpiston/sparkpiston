@@ -163,9 +163,7 @@
     "compatibility": "Benelli all models",
     "image": "./assets/products/oil filter.jpeg",
     "available": true
-  }
-], 
-[
+  }, 
   {
     "id": "benelli-brake-pad",
     "name": "Brake Pad Benelli",
@@ -209,5 +207,5 @@
     "compatibility": "KTM motorcycles — exact model and year should be confirmed before purchase",
     "image": "./assets/products/ktm-decat-pipe.jpg",
     "available": true
-  },
+  }
 ]
