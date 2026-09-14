@@ -152,5 +152,16 @@
     "compatibility": "Benelli ABS and Non-ABS models",
     "image": "./assets/products/caliper.jpeg",
     "available": true
+  },
+  {
+    "id": "Oil filter-benelli",
+    "name": "Benelli Oil filter",
+    "brand": "Benelli OEM",
+    "price": 650,
+    "category": "Engine",
+    "description": "Genuine Benelli OEM brake Oil filter designed to deliver reliable Engine performance.",
+    "compatibility": "Benelli all models",
+    "image": "./assets/products/oil filter.jpeg",
+    "available": true
   }
 ]
