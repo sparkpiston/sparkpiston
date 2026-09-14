@@ -208,4 +208,16 @@
     "image": "./assets/products/ktm-decat-pipe.jpeg",
     "available": true
   }
+],
+{
+    "id": "ktm-decat-performance-pipe",
+    "name": "DECAT Pipe for KTM",
+    "brand": "Mark Performance",
+    "price": 3900,
+    "category": "Exhaust",
+    "description": "Performance decat pipe designed for compatible KTM motorcycles to improve exhaust flow and provide a deeper, sportier exhaust note.",
+    "compatibility": "KTM motorcycles — exact model and year should be confirmed before purchase",
+    "image": "./assets/products/ktm%20decat%20pipe.jpeg",
+    "available": true
+  }
 ]
