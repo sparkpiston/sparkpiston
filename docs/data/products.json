@@ -172,7 +172,7 @@
     "category": "Brakes",
     "description": "High-quality replacement brake pads designed for Benelli motorcycles, providing reliable braking performance and consistent stopping power.",
     "compatibility": "Benelli motorcycles — compatible models should be confirmed before purchase",
-    "image": "./assets/products/benelli-brake-pad.jpeg",
+    "image": "image": "./assets/products/brake-pad.jpeg",
     "available": true
   },
   {
