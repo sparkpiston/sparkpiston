@@ -77,7 +77,7 @@
     "available": true
   },
   {
-    "id": "benelli-rear-suspension ",
+    "id": "benelli-rear-suspension",
     "name": "Rear Suspension",
     "brand": "Performance Series",
     "price": 13499,
@@ -154,21 +154,24 @@
     "available": true
   },
   {
-    "id": "Oil filter-benelli",
-    "name": "Benelli Oil filter",
+    "id": "oil-filter-benelli",
+    "name": "Benelli Oil Filter",
     "brand": "Benelli OEM",
     "price": 650,
     "category": "Engine",
-    "description": "Genuine Benelli OEM brake Oil filter designed to deliver reliable Engine performance.",
+    "description": "Genuine Benelli OEM oil filter designed to support reliable engine performance and effective oil filtration.",
     "compatibility": "Benelli all models",
     "image": "./assets/products/oil filter.jpeg",
     "available": true
-  }, 
+  },
   {
     "id": "benelli-brake-pad",
     "name": "Brake Pad Benelli",
     "brand": "Benelli",
-    "price": 1000-2500,
+    "price": {
+      "min": 1000,
+      "max": 2500
+    },
     "category": "Brakes",
     "description": "High-quality replacement brake pads designed for Benelli motorcycles, providing reliable braking performance and consistent stopping power.",
     "compatibility": "Benelli motorcycles — compatible models should be confirmed before purchase",
@@ -179,7 +182,10 @@
     "id": "benelli-all-spares",
     "name": "Benelli All Spares",
     "brand": "Benelli",
-    "price": 500-50000+,
+    "price": {
+      "min": 500,
+      "max": 50000
+    },
     "category": "Spare Parts",
     "description": "A wide range of genuine and replacement spare parts for Benelli motorcycles, covering maintenance, service and replacement requirements.",
     "compatibility": "Benelli all models — specific part compatibility should be confirmed before purchase",
