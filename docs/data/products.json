@@ -172,7 +172,7 @@
     "category": "Brakes",
     "description": "High-quality replacement brake pads designed for Benelli motorcycles, providing reliable braking performance and consistent stopping power.",
     "compatibility": "Benelli motorcycles — compatible models should be confirmed before purchase",
-    "image": "./assets/products/brake-pad.jpeg",
+    "image": "./assets/products/brake pad.jpeg",
     "available": true
   },
   {
@@ -183,7 +183,7 @@
     "category": "Spare Parts",
     "description": "A wide range of genuine and replacement spare parts for Benelli motorcycles, covering maintenance, service and replacement requirements.",
     "compatibility": "Benelli all models — specific part compatibility should be confirmed before purchase",
-    "image": "./assets/products/benelli-all-spares.jpeg",
+    "image": "./assets/products/benelli all spares.jpeg",
     "available": true
   },
   {
@@ -194,7 +194,7 @@
     "category": "Exhaust",
     "description": "Performance headers designed for the Aprilia RS 457, engineered to improve exhaust gas flow and deliver a sportier exhaust character.",
     "compatibility": "Aprilia RS 457",
-    "image": "./assets/products/rs457-headers-pipe.jpeg",
+    "image": "./assets/products/rs457 headers pipe.jpeg",
     "available": true
   },
   {
@@ -205,7 +205,7 @@
     "category": "Exhaust",
     "description": "Performance decat pipe designed for compatible KTM motorcycles to improve exhaust flow and provide a deeper, sportier exhaust note.",
     "compatibility": "KTM motorcycles — exact model and year should be confirmed before purchase",
-    "image": "./assets/products/ktm-decat-pipe.jpeg",
+    "image": "./assets/products/ktm decat pipe.jpeg",
     "available": true
   }
 ]
