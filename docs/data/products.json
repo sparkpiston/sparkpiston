@@ -183,7 +183,7 @@
     "category": "Spare Parts",
     "description": "A wide range of genuine and replacement spare parts for Benelli motorcycles, covering maintenance, service and replacement requirements.",
     "compatibility": "Benelli all models — specific part compatibility should be confirmed before purchase",
-    "image": "./assets/products/benelli all spares.jpeg",
+    "image": "./assets/products/all spares for benelli.jpeg",
     "available": true
   },
   {
@@ -205,7 +205,7 @@
     "category": "Exhaust",
     "description": "Performance decat pipe designed for compatible KTM motorcycles to improve exhaust flow and provide a deeper, sportier exhaust note.",
     "compatibility": "KTM motorcycles — exact model and year should be confirmed before purchase",
-    "image": "./assets/products/ktm decat pipe.jpeg",
+    "image": "./assets/products/decat pipe .jpeg",
     "available": true
   }
 ]
