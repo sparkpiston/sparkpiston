@@ -168,10 +168,7 @@
     "id": "benelli-brake-pad",
     "name": "Brake Pad Benelli",
     "brand": "Benelli",
-    "price": {
-      "min": 1000,
-      "max": 2500
-    },
+    "price": 2500,
     "category": "Brakes",
     "description": "High-quality replacement brake pads designed for Benelli motorcycles, providing reliable braking performance and consistent stopping power.",
     "compatibility": "Benelli motorcycles — compatible models should be confirmed before purchase",
@@ -182,10 +179,7 @@
     "id": "benelli-all-spares",
     "name": "Benelli All Spares",
     "brand": "Benelli",
-    "price": {
-      "min": 500,
-      "max": 50000
-    },
+    "price": 50000,
     "category": "Spare Parts",
     "description": "A wide range of genuine and replacement spare parts for Benelli motorcycles, covering maintenance, service and replacement requirements.",
     "compatibility": "Benelli all models — specific part compatibility should be confirmed before purchase",
